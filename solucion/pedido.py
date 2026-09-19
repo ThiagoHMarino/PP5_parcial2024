@@ -1,7 +1,7 @@
 from abc import ABC, abstractmethod
 
-class NoEsPlantaError(TypeError):
-    pass
+#class NoEsPlantaError(TypeError):
+    #pass
 
 class Empresa:
     def __init__(self):
